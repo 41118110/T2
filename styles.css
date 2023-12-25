@@ -1,0 +1,12 @@
+#profile {
+  text-align: center;
+}
+
+#student-id, #student-name {
+  font-family: Arial, sans-serif;
+}
+
+#profile-pic {
+  border: 2px solid black;
+  border-radius: 50%;
+}
